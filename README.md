@@ -1,5 +1,5 @@
-# pandas_projects
-here are two projects....
+# Pandas_projects
+Here are two projects....
 
 1.# 🚀 Project 1- Employee Insights Dashboard (Employees Dataset)
 # Load data
